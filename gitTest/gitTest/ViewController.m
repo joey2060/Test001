@@ -20,6 +20,7 @@
     NSLog(@"test git");
     NSLog(@"test2 git");
     NSLog(@"test branch 2");
+     NSLog(@"test branch2 2");
 }
 
 - (void)didReceiveMemoryWarning {
